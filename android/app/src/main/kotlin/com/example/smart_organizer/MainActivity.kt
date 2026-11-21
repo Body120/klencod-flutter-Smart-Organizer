@@ -1,4 +1,4 @@
-package com.example.smart_organizer
+package com.smart.app
 
 import android.graphics.Bitmap
 import android.graphics.Canvas
